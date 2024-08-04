@@ -1,2 +1,8 @@
-# My-E-commerce-project
-A full-stack eCommerce platform built with JavaScript, Node.js, React.js, Redux, and MongoDB. Features include secure sign-in/sign-up, profile management, dynamic shopping cart, and order processing.  Technologies Used: Frontend: React.js, Redux Backend: Node.js, Express Database: MongoDB Version Control: GitBash
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
